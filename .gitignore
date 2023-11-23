@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+/bower_components/
+/jspm_packages/
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled binary
+/dist/
+/out/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# User-specific files
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
